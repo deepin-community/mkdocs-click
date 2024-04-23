@@ -1,5 +1,27 @@
-template-repository (1.0-1) unstable; urgency=medium
+mkdocs-click (0.8.1-1) unstable; urgency=medium
 
-  * Initial release
+  * [842ced7] d/watch: Set compression and switch URL
+    Upstream has moved to the mkdocs organization on GitHub.
+  * [9b9f133] New upstream version 0.8.1
+  * [57d6fd1] d/u/metadata: Update content after upstream URL move
+  * [89d19dc] d/control: Add some more BuildProfileSpec
+  * [a38e220] d/control: Update Standards-Version to 4.6.2
+    No further changes needed.
+  * [a4faf30] d/control: Update Homepage field
+  * [3b9418a] d/copyright: Update content and year data
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Carsten Schoenert <c.schoenert@t-online.de>  Sun, 24 Sep 2023 08:23:22 +0200
+
+mkdocs-click (0.8.0-2) unstable; urgency=medium
+
+  * Source only upload
+
+ -- Carsten Schoenert <c.schoenert@t-online.de>  Sun, 23 Oct 2022 07:09:59 +0200
+
+mkdocs-click (0.8.0-1) unstable; urgency=medium
+
+  * [7029877] New upstream version 0.8.0
+  * [756b019] First and basic Debianization
+    (Closes: #1022155)
+
+ -- Carsten Schoenert <c.schoenert@t-online.de>  Sat, 22 Oct 2022 07:41:23 +0200

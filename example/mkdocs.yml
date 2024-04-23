@@ -1,0 +1,8 @@
+# NOTE: this is not an actual docs site for `mkdocs-click`, but rather a
+# demo site to demonstrate the abilities of `mkdocs-click`.
+site_name: mkdocs-click example
+theme: readthedocs
+
+markdown_extensions:
+  - attr_list
+  - mkdocs-click
